@@ -3,46 +3,46 @@ ChampName = game.localPlayer:ChampionName()
 
 if ChampName == "Amumu" then
 	require("scripts/INTAIO/Amumu")
-else if ChampName == "Ashe" then
+elseif ChampName == "Ashe" then
 	require("scripts/INTAIO/ashe")
-else if ChampName == "Caitlyn" then
+elseif ChampName == "Caitlyn" then
 	require("scripts/INTAIO/caitlyn")
-else if ChampName == "Draven" then
+elseif ChampName == "Draven" then
 	require("scripts/INTAIO/draven")
-else if ChampName == "Evelynn" then
+elseif ChampName == "Evelynn" then
 	require("scripts/INTAIO/evelynn")
-else if ChampName == "Ezreal" then
+elseif ChampName == "Ezreal" then
 	require("scripts/INTAIO/ezreal")
-else if ChampName == "Fiora" then
+elseif ChampName == "Fiora" then
 	require("scripts/INTAIO/fiora")
-else if ChampName == "Graves" then
+elseif ChampName == "Graves" then
 	require("scripts/INTAIO/graves")
-else if ChampName == "Katarina" then
+elseif ChampName == "Katarina" then
 	require("scripts/INTAIO/katarina")
-else if ChampName == "MasterYi" then
+elseif ChampName == "MasterYi" then
 	require("scripts/INTAIO/masteryi")
-else if ChampName == "Orianna" then
+elseif ChampName == "Orianna" then
 	require("scripts/INTAIO/orianna")
-else if ChampName == "Qiyana" then
+elseif ChampName == "Qiyana" then
 	require("scripts/INTAIO/qiyana")
-else if ChampName == "Rengar" then
+elseif ChampName == "Rengar" then
 	require("scripts/INTAIO/rengar")
-else if ChampName == "Ryze" then
+elseif ChampName == "Ryze" then
 	require("scripts/INTAIO/ryze")
-else if ChampName == "Shen" then
+elseif ChampName == "Shen" then
 	require("scripts/INTAIO/shen")
-else if ChampName == "Sylas" then
+elseif ChampName == "Sylas" then
 	require("scripts/INTAIO/sylas")
-else if ChampName == "Tristana" then
+elseif ChampName == "Tristana" then
 	require("scripts/INTAIO/tristana")
-else if ChampName == "TwistedFate" then
+elseif ChampName == "TwistedFate" then
 	require("scripts/INTAIO/twistedfate")
-else if ChampName == "Twitch" then
+elseif ChampName == "Twitch" then
 	require("scripts/INTAIO/twitch")
-else if ChampName == "Vex" then
+elseif ChampName == "Vex" then
 	require("scripts/INTAIO/vex")
-else if ChampName == "Yasuo" then
+elseif ChampName == "Yasuo" then
 	require("scripts/INTAIO/yasuo")
-else if ChampName == "Zed" then
+elseif ChampName == "Zed" then
 	require("scripts/INTAIO/zed")
 end
