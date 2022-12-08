@@ -2,7 +2,7 @@
 ChampName = game.localPlayer:ChampionName()
 
 if ChampName == "Amumu" then
-	require("scripts/INTAIO/Amumu")
+	require("scripts/INTAIO/amumu")
 elseif ChampName == "Ashe" then
 	require("scripts/INTAIO/ashe")
 elseif ChampName == "Caitlyn" then
