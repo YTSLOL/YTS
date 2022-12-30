@@ -5,6 +5,8 @@ if ChampName == "Amumu" then
 	require("scripts/INTAIO/amumu")
 elseif ChampName == "Ashe" then
 	require("scripts/INTAIO/ashe")
+elseif ChampName == "Akali" then
+	require("scripts/INTAIO/akali")
 elseif ChampName == "Caitlyn" then
 	require("scripts/INTAIO/caitlyn")
 elseif ChampName == "Draven" then
@@ -19,6 +21,8 @@ elseif ChampName == "Graves" then
 	require("scripts/INTAIO/graves")
 elseif ChampName == "Katarina" then
 	require("scripts/INTAIO/katarina")
+elseif ChampName == "Kalista" then
+	require("scripts/INTAIO/kalista")
 elseif ChampName == "MasterYi" then
 	require("scripts/INTAIO/masteryi")
 elseif ChampName == "Orianna" then
@@ -45,4 +49,6 @@ elseif ChampName == "Yasuo" then
 	require("scripts/INTAIO/yasuo")
 elseif ChampName == "Zed" then
 	require("scripts/INTAIO/zed")
+elseif ChampName == "Camille" then
+	require("scripts/INTAIO/camille")
 end
