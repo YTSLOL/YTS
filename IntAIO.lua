@@ -51,4 +51,6 @@ elseif ChampName == "Zed" then
 	require("scripts/INTAIO/zed")
 elseif ChampName == "Camille" then
 	require("scripts/INTAIO/camille")
+elseif ChampName == "Nidalee" then
+	require("scripts/INTAIO/nidalee")
 end
