@@ -41,14 +41,10 @@ elseif ChampName == "Tristana" then
 	require("scripts/INTAIO/tristana")
 elseif ChampName == "TwistedFate" then
 	require("scripts/INTAIO/twistedfate")
-elseif ChampName == "Twitch" then
-	require("scripts/INTAIO/twitch")
 elseif ChampName == "Vex" then
 	require("scripts/INTAIO/vex")
 elseif ChampName == "Yasuo" then
 	require("scripts/INTAIO/yasuo")
-elseif ChampName == "Zed" then
-	require("scripts/INTAIO/zed")
 elseif ChampName == "Camille" then
 	require("scripts/INTAIO/camille")
 elseif ChampName == "Nidalee" then
